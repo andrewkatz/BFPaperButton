@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "BFPaperButton"
-  s.version      = '1.5.4.1'
+  s.version      = "1.5.4"
   s.summary      = "A flat button inspired by Google Material Design's Paper theme."
   s.homepage     = "https://github.com/bfeher/BFPaperButton"
   s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
