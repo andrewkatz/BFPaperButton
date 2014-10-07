@@ -51,13 +51,13 @@ CGFloat const bfPaperButton_tapCircleDiameterDefault = -1.f;
 static CGFloat const bfPaperButton_loweredShadowRadius             = 1.5f;
 static CGFloat const bfPaperButton_raisedShadowRadius              = 4.5f;
 // -shadow location:
-static CGFloat const bfPaperButton_loweredShadowYOffset            = 1.f;
-static CGFloat const bfPaperButton_raisedShadowYOffset             = 4.f;
+static CGFloat const bfPaperButton_loweredShadowYOffset            = 0.f;
+static CGFloat const bfPaperButton_raisedShadowYOffset             = 1.f;
 //static const CGFloat loweredShadowXOffset            = 0.f;
-static CGFloat const bfPaperButton_raisedShadowXOffset             = 2.f;
+static CGFloat const bfPaperButton_raisedShadowXOffset             = 1.f;
 // -shadow opacity:
-static CGFloat const bfPaperButton_loweredShadowOpacity            = 0.5f;
-static CGFloat const bfPaperButton_raisedShadowOpacity             = 0.5f;
+static CGFloat const bfPaperButton_loweredShadowOpacity            = 0.4f;
+static CGFloat const bfPaperButton_raisedShadowOpacity             = 0.4f;
 // -animation durations:
 static CGFloat const bfPaperButton_animationDurationConstant       = 0.12f;
 static CGFloat const bfPaperButton_tapCircleGrowthDurationConstant = bfPaperButton_animationDurationConstant * 2;
